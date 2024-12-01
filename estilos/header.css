@@ -1,0 +1,14 @@
+.header{
+  padding: 20px;
+  background-color: aqua;
+  
+
+}
+.contacto{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 80px;
+}
+
+    
