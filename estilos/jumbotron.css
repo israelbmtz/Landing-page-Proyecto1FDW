@@ -1,0 +1,11 @@
+.jumbotron{
+    background: rgba(116, 116, 126, 40%);
+
+}
+.texto li{
+    color: black;
+    list-style: none;
+    padding: 100px;
+    text-transform:uppercase;
+    text-shadow: 3px 3px violet;
+}

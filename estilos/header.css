@@ -1,14 +1,18 @@
-.header{
-  padding: 20px;
-  background-color: aqua;
-  
-
+header{
+  background: url("/assets/logo-daniela\ 2.jpg") no-repeat right;
+  color: black;
+  padding: 60px;
+  background-size: 150px;
 }
 .contacto{
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    gap: 80px;
+  align-items:stretch;
+  display: flex;
+  gap: 250px;
+  justify-content: center;
+  list-style: none;
 }
+
+
+
 
     

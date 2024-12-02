@@ -1,0 +1,9 @@
+footer{
+    background: rgba(74, 74, 85, 0.842);
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 315px;
+    align-items: center;
+}
