@@ -15,7 +15,23 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    
 }
+@media screen and (max-width:800px) {
+    header{
+        width: 100%;   
+    }
+    .jumbotron{
+        width: 100%;
+    }
+    .catalogo{
+        width: 100%;
+    }
+    footer{
+        width: 100%;
+    }
+}
+
     
 
 

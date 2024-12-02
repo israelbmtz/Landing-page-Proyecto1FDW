@@ -1,5 +1,17 @@
-.catalogos{
-    background: red;
-    font-family: 'Times New Roman', Times, serif;
+.img{
+    display: flex;
+    justify-content:space-around;
+    gap: 30px;
+    padding:10px;
 
 }
+.catalogo{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+   
+  
+
